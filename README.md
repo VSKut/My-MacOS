@@ -3,6 +3,7 @@
 
 1. [Unsorted software](#unsorted-software)
 2. [Messengers](#messengers)
+3. [Browsers and Plugins](#browsers-and-plugins)
 
 ## Unsorted software
 ### [Bartender](https://www.macbartender.com/)
@@ -62,3 +63,35 @@ Make calls, send messages and much more - freely and securely.
 
 ### [Adium](https://adium.im/)
 Adium is a free instant messaging application for Mac OS X that can connect to AIM, XMPP (Jabber), ICQ, IRC and more.
+
+## Browsers and Plugins
+
+### [Chrome Web Browser](https://www.google.com/chrome/)
+Google Chrome is a freeware web browser developed by Google
+
+### [Adblock for YouTube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk)
+Removing ads from video
+
+### [AliTools](https://alitools.io)
+AliTools monitors price changes for products on AliExpress, Gearbest, Banggood, JD. It indicates seller trust levels, searches products, and provides real reviews of the products you are interested in.
+
+### [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn)
+Missing cookie manager for Google Chrome. Edit and create cookies right in the Developer Tools.
+
+### [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+Grammarly will make sure your messages, documents, and social media posts are clear, mistake-free, and impactful.
+
+### [LetyShops — cashback service](https://letyshops.com/)
+Cashback service LetyShops offers to save up to 30% on purchases in online stores in Russia and the world.
+
+### [Linkens](https://chrome.google.com/webstore/detail/linkens/hjngmlepjloblimbhocofmodjihjklhf)
+This Chrome extension helps you to add new contacts in the social network
+
+### [Octotree](https://chrome.google.com/webstore/detail/linkens/hjngmlepjloblimbhocofmodjihjklhf)
+Code tree for GitHub
+
+### [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
+Postman makes API development faster, easier, and better. The free app is used by more than 3.5 million developers and 30,000…
+
+### [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+The world's most popular userscript manager
