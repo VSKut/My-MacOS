@@ -1,6 +1,9 @@
 # My macOS
 💻 A list of applications on my mac
 
+1. [Unsorted software](#unsorted-software)
+2. [Messengers](#messengers)
+
 ## Unsorted software
 ### [Bartender](https://www.macbartender.com/)
 Organize your menu bar apps
