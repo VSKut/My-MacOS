@@ -34,6 +34,8 @@
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [IP Scanner](https://itunes.apple.com/il/app/ip-scanner/id404167149) - IP Scanner for Macintosh scans your local area network to determine the identity of all machines and internet devices on the LAN. Powerful results, yet easy and intuitive to use.
 - [Debookee](https://debookee.com/) - Debookee is the simplest & most powerful network traffic analyzer for macOS
+- [Parallels Desktop](https://www.parallels.com/products/desktop/) - #1 choice of Mac users. Run Windows applications like Microsoft Office, Internet Explorer, Visual Studio, QuickBooks and more without rebooting.
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 
 ## Media
