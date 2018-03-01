@@ -84,3 +84,12 @@
 - [Cyberduck](https://cyberduck.io/) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 - [Yummy FTP Pro](https://www.yummysoftware.com/) - The ultimate Mac FTP, SFTP & WebDAV client software, Yummy FTP Pro is THE Mac FTP client for speed, reliability, features, and ease of use.
 - [SQLite Browser](http://sqlitebrowser.org/) - DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+- [Composercat](https://www.getcomposercat.com/) - Composercat is a comprehensive GUI for the Composer package manager, designed both for professionals and people taking their first steps with Composer.
+- [GitHub Desktop](https://desktop.github.com/) - Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.
+- [CronniX](https://code.google.com/archive/p/cronnix/) - CronniX is an Aqua frontend to the powerful Unix tool "cron". Cron is a Unix system service that allows scheduled execution of scripts, programs, applications - in short anything that can be started from the command line. This includes OSX applications and AppleScripts.
+- [Cookie](https://cookie5app.com/) - More privacy, better browsing.
+- [MAMP & MAMP PRO](https://www.mamp.info/en/mamp-pro/) - MAMP installs a local server environment in a matter of seconds on your Mac or Windows computer.
+- [Docker](https://docker.com/) - Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+- [Kitematic](https://kitematic.com/) - Run docker containers through a simple, yet powerful graphical user interface.
+- [Insomnia](https://insomnia.rest/) - Finally, a REST client you'll love
+- [Postman](https://www.getpostman.com/apps) - Postman is the complete toolchain for API developers, used by more than 3 million developers and 30,000 companies worldwide. Postman makes working with APIs faster and easier by supporting developers at every stage of their workflow, and is available for Mac OS X, Windows and Linux users.
