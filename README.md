@@ -1,4 +1,4 @@
-# My macOS
+# My-MacOS
 💻 A list of applications on my mac
 
 1. [Unsorted software](#unsorted-software)
