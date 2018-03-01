@@ -6,23 +6,15 @@
 3. [Messengers](#messengers)
 4. [Browsers and Plugins](#browsers-and-plugins)
 5. [Development](#development)
+6. [System](#system)
 
 ## Unsorted software
-- [Bartender](https://www.macbartender.com/) - Organize your menu bar apps
-- [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for OS X
-- [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
-- [Monosnap](https://monosnap.com/) - Monosnap is cloud service that allows easy, convenient, and rapid saving of screenshots.
-- [Adguard](https://adguard.com) - AdGuard is the best way to get rid of annoying ads and online tracking and protect your computer from malware. Make your web surfing fast, safe and ad-free
-- [Grammarly](https://www.grammarly.com) - Grammarly’s free writing app will make sure your messages, documents, and social media posts are clear, mistake-free, and impactful.
 - [DropBox](https://dropbox.com) - Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter. Sign in and put your creative energy to work.
 - [MacDropAny](http://www.zibity.com/macdropany.html) - MacDropAny syncs any folder on your Mac with the cloud for free. Access your stuff from any device, anywhere in the world. Never forget a file again.
 - [Weather Indicator](https://itunes.apple.com/us/app/weather-indicator/id1181817945) - This is a simple and beautiful menu bar application that shows local weather conditions based on your location.
-- [Spectacle](https://www.spectacleapp.com/) - Window control with simple and customizable keyboard shortcuts
 - [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent client
 - [KeyKey Typing Tutor](http://keykey.ninja/) - KeyKey will teach you touch typying with fewer error in QWERTY or DVORAK layouts. 15 minutes a day and you will become a keyboard ninja!
-- [gfxCardStatus](https://gfx.io/) - gfxCardStatus is an unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
-- [SMARTReporter](https://www.corecode.io/smartreporter/) - SMARTReporter is an application that can warn you of some hard disk drive failures before they actually happen! It does so by periodically polling the S.M.A.R.T. status of your hard disk drives.
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
 - [Waltr 2](https://softorino.com/w2/) - WALTR 2 is a Magic Drop Area for Your Apple Device. Transfer any music, video, ringtones, PDF &amp; ePub files to any iPhone, iPad, iPod without iTunes.
 - [Keka](http://www.kekaosx.com/) - Keka is a free file archiver for macOS
@@ -32,8 +24,6 @@
 - [Disk Drill](https://www.cleverfiles.com/) - Disk Drill: The best data recovery software for Mac OS X. Recover deleted or lost data from any storage device, iOS and Android. Free scanning.
 - [WhatSize](http://whatsizemac.com/) - WhatSize is an application that allows you to quickly view and manage disk space usage and speed up your Mac.
 - [TeamViewer](https://www.teamviewer.com/en/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
-- [Microsoft NTFS for Mac](https://www.paragon-software.com/home/ntfs-mac/) - Boost Your Mac with Paragon File System Link. Read/write Microsoft NTFS files on your Mac for free.
-- [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [IP Scanner](https://itunes.apple.com/il/app/ip-scanner/id404167149) - IP Scanner for Macintosh scans your local area network to determine the identity of all machines and internet devices on the LAN. Powerful results, yet easy and intuitive to use.
 - [Debookee](https://debookee.com/) - Debookee is the simplest & most powerful network traffic analyzer for macOS
 - [Parallels Desktop](https://www.parallels.com/products/desktop/) - #1 choice of Mac users. Run Windows applications like Microsoft Office, Internet Explorer, Visual Studio, QuickBooks and more without rebooting.
@@ -93,3 +83,17 @@
 - [Kitematic](https://kitematic.com/) - Run docker containers through a simple, yet powerful graphical user interface.
 - [Insomnia](https://insomnia.rest/) - Finally, a REST client you'll love
 - [Postman](https://www.getpostman.com/apps) - Postman is the complete toolchain for API developers, used by more than 3 million developers and 30,000 companies worldwide. Postman makes working with APIs faster and easier by supporting developers at every stage of their workflow, and is available for Mac OS X, Windows and Linux users.
+
+### System
+- [Wallcat](https://beta.wall.cat/) - Enjoy a new, beautiful wallpaper, every day.
+- [Bartender](https://www.macbartender.com/) - Organize your menu bar apps
+- [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for OS X
+- [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
+- [Monosnap](https://monosnap.com/) - Monosnap is cloud service that allows easy, convenient, and rapid saving of screenshots.
+- [Adguard](https://adguard.com) - AdGuard is the best way to get rid of annoying ads and online tracking and protect your computer from malware. Make your web surfing fast, safe and ad-free
+- [Grammarly](https://www.grammarly.com) - Grammarly’s free writing app will make sure your messages, documents, and social media posts are clear, mistake-free, and impactful.
+- [Spectacle](https://www.spectacleapp.com/) - Window control with simple and customizable keyboard shortcuts
+- [gfxCardStatus](https://gfx.io/) - gfxCardStatus is an unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics.
+- [SMARTReporter](https://www.corecode.io/smartreporter/) - SMARTReporter is an application that can warn you of some hard disk drive failures before they actually happen! It does so by periodically polling the S.M.A.R.T. status of your hard disk drives.
+- [Microsoft NTFS for Mac](https://www.paragon-software.com/home/ntfs-mac/) - Boost Your Mac with Paragon File System Link. Read/write Microsoft NTFS files on your Mac for free.
+- [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
