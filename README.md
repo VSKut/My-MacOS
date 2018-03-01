@@ -99,6 +99,10 @@
 ### Cloud
 - [DropBox](https://dropbox.com) - Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter. Sign in and put your creative energy to work.
 - [MacDropAny](http://www.zibity.com/macdropany.html) - MacDropAny syncs any folder on your Mac with the cloud for free. Access your stuff from any device, anywhere in the world. Never forget a file again.
+- [Google Drive](https://www.google.com/drive/) - Get access to files anywhere through secure cloud storage and file backup for your photos, videos, files and more with Google Drive.
+- [Microsoft OneDrive](https://onedrive.live.com/) - Store photos and docs online. Access them from any PC, Mac or phone. Create and work together on Word, Excel or PowerPoint documents.
+- [Yandex.Disk](https://disk.yandex.com/) - Yandex.Disk is a cloud service created by Yandex that lets users store files on “cloud” servers and share them with others online. The service is based on syncing data between different devices.
+- [Cloud Mail.Ru](https://cloud.mail.ru/) - Mail.ru cloud service
 
 ### Other
 - [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent client
