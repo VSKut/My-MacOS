@@ -5,6 +5,7 @@
 2. [Media](#media)
 3. [Messengers](#messengers)
 4. [Browsers and Plugins](#browsers-and-plugins)
+5. [Development](#development)
 
 ## Unsorted software
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps
@@ -69,3 +70,17 @@
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager
 - [TorBrowser](https://www.torproject.org/docs/tor-doc-osx.html.en) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
 
+## Development
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Capable and Ergonomic Java IDE for Enterprise Java, Scala, Kotlin and much more...
+- [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE
+- [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE
+- [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century
+- [Visual Studio IDE](https://www.visualstudio.com/) - Visual Studio dev tools & services make app development easy for any platform & language.
+- [Xcode](https://developer.apple.com/xcode/) - Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
+- [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful IDE from JetBrains for SQL on macOS, Windows and Linux.
+- [Sequel Pro](https://www.sequelpro.com/) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+- [Cyberduck](https://cyberduck.io/) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+- [Yummy FTP Pro](https://www.yummysoftware.com/) - The ultimate Mac FTP, SFTP & WebDAV client software, Yummy FTP Pro is THE Mac FTP client for speed, reliability, features, and ease of use.
+- [SQLite Browser](http://sqlitebrowser.org/) - DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
