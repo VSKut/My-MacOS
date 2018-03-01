@@ -10,6 +10,7 @@
 7. [Mobile](#mobile)
 8. [Cloud](#cloud)
 9. [Other](#other)
+10. [Related lists](#related-lists)
 
 ## Unsorted software
 - Empty
@@ -110,3 +111,11 @@
 - [TeamViewer](https://www.teamviewer.com/en/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
 - [Parallels Desktop](https://www.parallels.com/products/desktop/) - #1 choice of Mac users. Run Windows applications like Microsoft Office, Internet Explorer, Visual Studio, QuickBooks and more without rebooting.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+- [WineHQ](https://www.winehq.org/) - Open Source Software for running Windows applications on other operating systems.
+
+### Related lists
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
+- [Interesting macOS apps](https://github.com/learn-anything/macos-apps)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [Open-Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
+- [My wonderful world of macOS](https://github.com/nikitavoloboev/my-mac-os)
