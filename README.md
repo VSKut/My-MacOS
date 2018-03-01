@@ -25,6 +25,7 @@
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
 - [Waltr 2](https://softorino.com/w2/) - WALTR 2 is a Magic Drop Area for Your Apple Device. Transfer any music, video, ringtones, PDF &amp; ePub files to any iPhone, iPad, iPod without iTunes.
 - [Keka](http://www.kekaosx.com/) - Keka is a free file archiver for macOS
+- [GUI Tar](http://www.edenwaith.com/products/guitar/) - During the command-line era of computing, archiving files involved cryptic commands such as tar -xvf somefile.tar.
 - [CleanMyDrive 2](https://macpaw.com/cleanmydrive) - Easily drag-and-drop files directly to any drive, check disk stats and automatically clean hidden junk from external drives.
 - [AVG Cleaner](https://www.avg.com/en-ww/avg-cleaner-for-mac) - Speed up and clean up your Mac with AVG Cleaner. Remove junk and hidden duplicate files. Free up disk space for more of the things you love.
 - [Disk Drill](https://www.cleverfiles.com/) - Disk Drill: The best data recovery software for Mac OS X. Recover deleted or lost data from any storage device, iOS and Android. Free scanning.
@@ -49,6 +50,7 @@
 ## Messengers
 - [Telegram](https://telegram.org/) - Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.
 - [WhatsApp](https://www.whatsapp.com/) - WhatsApp Messenger: More than 1 billion people in over 180 countries use WhatsApp to stay in touch with friends and family, anytime and anywhere. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on phones all over the world.
+- [Slack](https://slack.com/) - Rally your coworkers with messaging, calls, files and your favorite apps in one place: Slack. Share your work in searchable conversations and automate your team’s routine tasks to make everyone’s work more productive.
 - [Skype](https://skype.com/) - Making free online calls or chatting with your loved ones.
 - [Viber](https://www.viber.com/) - Make calls, send messages and much more - freely and securely.
 - [Discord](https://discordapp.com/) - Discord is a proprietary freeware VoIP application designed for gaming communities. Discord runs on Windows, macOS, Android, iOS, Linux, and in a web browser. 
