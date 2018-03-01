@@ -20,6 +20,21 @@
 - [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent client
 - [KeyKey Typing Tutor](http://keykey.ninja/) - KeyKey will teach you touch typying with fewer error in QWERTY or DVORAK layouts. 15 minutes a day and you will become a keyboard ninja!
 - [gfxCardStatus](https://gfx.io/) - gfxCardStatus is an unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics.
+- [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
+- [SMARTReporter](https://www.corecode.io/smartreporter/) - SMARTReporter is an application that can warn you of some hard disk drive failures before they actually happen! It does so by periodically polling the S.M.A.R.T. status of your hard disk drives.
+- [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
+- [Waltr 2](https://softorino.com/w2/) - WALTR 2 is a Magic Drop Area for Your Apple Device. Transfer any music, video, ringtones, PDF &amp; ePub files to any iPhone, iPad, iPod without iTunes.
+- [Keka](http://www.kekaosx.com/) - Keka is a free file archiver for macOS
+- [CleanMyDrive 2](https://macpaw.com/cleanmydrive) - Easily drag-and-drop files directly to any drive, check disk stats and automatically clean hidden junk from external drives.
+- [AVG Cleaner](https://www.avg.com/en-ww/avg-cleaner-for-mac) - Speed up and clean up your Mac with AVG Cleaner. Remove junk and hidden duplicate files. Free up disk space for more of the things you love.
+- [Disk Drill](https://www.cleverfiles.com/) - Disk Drill: The best data recovery software for Mac OS X. Recover deleted or lost data from any storage device, iOS and Android. Free scanning.
+- [WhatSize](http://whatsizemac.com/) - WhatSize is an application that allows you to quickly view and manage disk space usage and speed up your Mac.
+- [TeamViewer](https://www.teamviewer.com/en/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
+- [Microsoft NTFS for Mac](https://www.paragon-software.com/home/ntfs-mac/) - Boost Your Mac with Paragon File System Link. Read/write Microsoft NTFS files on your Mac for free.
+- [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+- [IP Scanner](https://itunes.apple.com/il/app/ip-scanner/id404167149) - IP Scanner for Macintosh scans your local area network to determine the identity of all machines and internet devices on the LAN. Powerful results, yet easy and intuitive to use.
+- [Debookee](https://debookee.com/) - Debookee is the simplest & most powerful network traffic analyzer for macOS
+
 
 ## Media
 - [Elmedia Player](https://mac.eltima.com/media-player.html) - Elmedia Player is a free media player for Mac OS X. Use it to play and manage your favorite Flash movies or other media files on your Mac.
@@ -48,3 +63,5 @@
 - [Octotree](https://chrome.google.com/webstore/detail/linkens/hjngmlepjloblimbhocofmodjihjklhf) - Code tree for GitHub
 - [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - Postman makes API development faster, easier, and better. The free app is used by more than 3.5 million developers and 30,000…
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager
+- [TorBrowser](https://www.torproject.org/docs/tor-doc-osx.html.en) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security.
+
