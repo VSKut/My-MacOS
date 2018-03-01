@@ -7,28 +7,12 @@
 4. [Browsers and Plugins](#browsers-and-plugins)
 5. [Development](#development)
 6. [System](#system)
+7. [Mobile](#mobile)
+8. [Cloud](#cloud)
+9. [Other](#other)
 
 ## Unsorted software
-- [DropBox](https://dropbox.com) - Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter. Sign in and put your creative energy to work.
-- [MacDropAny](http://www.zibity.com/macdropany.html) - MacDropAny syncs any folder on your Mac with the cloud for free. Access your stuff from any device, anywhere in the world. Never forget a file again.
-- [Weather Indicator](https://itunes.apple.com/us/app/weather-indicator/id1181817945) - This is a simple and beautiful menu bar application that shows local weather conditions based on your location.
-- [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent client
-- [KeyKey Typing Tutor](http://keykey.ninja/) - KeyKey will teach you touch typying with fewer error in QWERTY or DVORAK layouts. 15 minutes a day and you will become a keyboard ninja!
-- [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
-- [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
-- [Waltr 2](https://softorino.com/w2/) - WALTR 2 is a Magic Drop Area for Your Apple Device. Transfer any music, video, ringtones, PDF &amp; ePub files to any iPhone, iPad, iPod without iTunes.
-- [Keka](http://www.kekaosx.com/) - Keka is a free file archiver for macOS
-- [GUI Tar](http://www.edenwaith.com/products/guitar/) - During the command-line era of computing, archiving files involved cryptic commands such as tar -xvf somefile.tar.
-- [CleanMyDrive 2](https://macpaw.com/cleanmydrive) - Easily drag-and-drop files directly to any drive, check disk stats and automatically clean hidden junk from external drives.
-- [AVG Cleaner](https://www.avg.com/en-ww/avg-cleaner-for-mac) - Speed up and clean up your Mac with AVG Cleaner. Remove junk and hidden duplicate files. Free up disk space for more of the things you love.
-- [Disk Drill](https://www.cleverfiles.com/) - Disk Drill: The best data recovery software for Mac OS X. Recover deleted or lost data from any storage device, iOS and Android. Free scanning.
-- [WhatSize](http://whatsizemac.com/) - WhatSize is an application that allows you to quickly view and manage disk space usage and speed up your Mac.
-- [TeamViewer](https://www.teamviewer.com/en/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
-- [IP Scanner](https://itunes.apple.com/il/app/ip-scanner/id404167149) - IP Scanner for Macintosh scans your local area network to determine the identity of all machines and internet devices on the LAN. Powerful results, yet easy and intuitive to use.
-- [Debookee](https://debookee.com/) - Debookee is the simplest & most powerful network traffic analyzer for macOS
-- [Parallels Desktop](https://www.parallels.com/products/desktop/) - #1 choice of Mac users. Run Windows applications like Microsoft Office, Internet Explorer, Visual Studio, QuickBooks and more without rebooting.
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
-
+- Empty
 
 ## Media
 - [Elmedia Player](https://mac.eltima.com/media-player.html) - Elmedia Player is a free media player for Mac OS X. Use it to play and manage your favorite Flash movies or other media files on your Mac.
@@ -97,3 +81,28 @@
 - [SMARTReporter](https://www.corecode.io/smartreporter/) - SMARTReporter is an application that can warn you of some hard disk drive failures before they actually happen! It does so by periodically polling the S.M.A.R.T. status of your hard disk drives.
 - [Microsoft NTFS for Mac](https://www.paragon-software.com/home/ntfs-mac/) - Boost Your Mac with Paragon File System Link. Read/write Microsoft NTFS files on your Mac for free.
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+- [Weather Indicator](https://itunes.apple.com/us/app/weather-indicator/id1181817945) - This is a simple and beautiful menu bar application that shows local weather conditions based on your location.
+- [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
+- [Keka](http://www.kekaosx.com/) - Keka is a free file archiver for macOS
+- [GUI Tar](http://www.edenwaith.com/products/guitar/) - During the command-line era of computing, archiving files involved cryptic commands such as tar -xvf somefile.tar.
+- [CleanMyDrive 2](https://macpaw.com/cleanmydrive) - Easily drag-and-drop files directly to any drive, check disk stats and automatically clean hidden junk from external drives.
+- [AVG Cleaner](https://www.avg.com/en-ww/avg-cleaner-for-mac) - Speed up and clean up your Mac with AVG Cleaner. Remove junk and hidden duplicate files. Free up disk space for more of the things you love.
+- [Disk Drill](https://www.cleverfiles.com/) - Disk Drill: The best data recovery software for Mac OS X. Recover deleted or lost data from any storage device, iOS and Android. Free scanning.
+- [WhatSize](http://whatsizemac.com/) - WhatSize is an application that allows you to quickly view and manage disk space usage and speed up your Mac.
+- [IP Scanner](https://itunes.apple.com/il/app/ip-scanner/id404167149) - IP Scanner for Macintosh scans your local area network to determine the identity of all machines and internet devices on the LAN. Powerful results, yet easy and intuitive to use.
+- [Debookee](https://debookee.com/) - Debookee is the simplest & most powerful network traffic analyzer for macOS
+
+### Mobile
+- [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
+- [Waltr 2](https://softorino.com/w2/) - WALTR 2 is a Magic Drop Area for Your Apple Device. Transfer any music, video, ringtones, PDF &amp; ePub files to any iPhone, iPad, iPod without iTunes.
+
+### Cloud
+- [DropBox](https://dropbox.com) - Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter. Sign in and put your creative energy to work.
+- [MacDropAny](http://www.zibity.com/macdropany.html) - MacDropAny syncs any folder on your Mac with the cloud for free. Access your stuff from any device, anywhere in the world. Never forget a file again.
+
+### Other
+- [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent client
+- [KeyKey Typing Tutor](http://keykey.ninja/) - KeyKey will teach you touch typying with fewer error in QWERTY or DVORAK layouts. 15 minutes a day and you will become a keyboard ninja!
+- [TeamViewer](https://www.teamviewer.com/en/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
+- [Parallels Desktop](https://www.parallels.com/products/desktop/) - #1 choice of Mac users. Run Windows applications like Microsoft Office, Internet Explorer, Visual Studio, QuickBooks and more without rebooting.
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
