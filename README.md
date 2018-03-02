@@ -19,6 +19,8 @@
 - [Elmedia Player](https://mac.eltima.com/media-player.html) - Elmedia Player is a free media player for Mac OS X. Use it to play and manage your favorite Flash movies or other media files on your Mac.
 - [5KPlayer](https://www.5kplayer.com/) - 5KPlayer is the best free 4K 5K 8K music video player to play MKV MTS DVD 1080P videos and APE FLAC MP3 AAC music easily, also built-in with YouTube online video downloader, AirPlay sender/receiver to stream video/music from iPhone to Mac & Windows.
 - [VLC media player](https://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+- [MVP](https://mpv.io/) - a free, open source, and cross-platform media player
+- [Helium](http://heliumfloats.com/) - A floating browser window for OS X
 - [Dragand](http://dragand.watch/) - A quick and simple application to download subtitles of your favorite series.
 - [AirServer](http://www.airserver.com/) - AirServer® is the most advanced screen mirroring software receiver for Mac, PC and Xbox One. AirServer Universal allows you to receive AirPlay, Miracast and Google Cast streams, similar to an Apple TV or a Chromecast device, so you can stream content, cast or mirror your display from an iOS device, macOS, Windows, Android, Chromebook or any other AirPlay and Google Cast compatible device. AirServer is compatible with Windows 10, iOS 9, iOS 10, macOS Sierra and also runs on the Xbox One.
 
