@@ -73,6 +73,7 @@
 
 ### System
 - [Wallcat](https://beta.wall.cat/) - Enjoy a new, beautiful wallpaper, every day.
+- [Irvue](http://irvue.tumblr.com/) - Gorgeous wallpapers on your Mac.
 - [Bartender](https://www.macbartender.com/) - Organize your menu bar apps
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for OS X
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - An advanced Mac system monitor for your menubar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
