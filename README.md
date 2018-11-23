@@ -97,6 +97,9 @@
 - [IP Scanner](https://itunes.apple.com/il/app/ip-scanner/id404167149) - IP Scanner for Macintosh scans your local area network to determine the identity of all machines and internet devices on the LAN. Powerful results, yet easy and intuitive to use.
 - [Debookee](https://debookee.com/) - Debookee is the simplest & most powerful network traffic analyzer for macOS
 - [Network Utility X](https://doublerew.net/os-x/network-utility-x/) - After more than 100k downloads on iOS platforms, Network Utility comes also to OS X with Network Utility X, a complete set of network tools.
+- [coconut Battery](https://www.coconut-flavour.com/coconutbattery/) - With coconutBattery you are always aware of your current battery health. It shows you live information about the battery in your Mac and iOS device
+- [The Clock 4 macOS](https://www.seense.com/the_clock/) - The Clock has been crafted with care, and deliver everything you could expect from an advanced and beautiful World Clock app.
+
 
 ### Mobile
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
