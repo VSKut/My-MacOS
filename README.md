@@ -87,6 +87,8 @@
 - [Microsoft NTFS for Mac](https://www.paragon-software.com/home/ntfs-mac/) - Boost Your Mac with Paragon File System Link. Read/write Microsoft NTFS files on your Mac for free.
 - [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 - [Weather Indicator](https://itunes.apple.com/us/app/weather-indicator/id1181817945) - This is a simple and beautiful menu bar application that shows local weather conditions based on your location.
+- [WeatherBug](https://itunes.apple.com/us/app/weatherbug-weather-forecast/id281940292) - WeatherBug is easy to use and provides forecasts for your every need, from storm warnings to pollen levels. Our weather network delivers the fastest alerts and the best real-time forecasts (current, hourly and 10-day).
+- [Weather for Status Bar](https://itunes.apple.com/us/app/weather-for-status-bar/id1448031908) - "Weather for Status Bar" is a simple desktop app for MacOS. It displays the current weather situation on the status bar and more detail info on click on its icon in the popup.
 - [AppCleaner](https://freemacsoft.net/appcleaner/) - AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps.
 - [Keka](http://www.kekaosx.com/) - Keka is a free file archiver for macOS
 - [GUI Tar](http://www.edenwaith.com/products/guitar/) - During the command-line era of computing, archiving files involved cryptic commands such as tar -xvf somefile.tar.
