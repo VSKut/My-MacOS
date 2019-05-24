@@ -57,6 +57,8 @@
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century
 - [Visual Studio IDE](https://www.visualstudio.com/) - Visual Studio dev tools & services make app development easy for any platform & language.
 - [Xcode](https://developer.apple.com/xcode/) - Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
+- [DBngin](https://dbngin.com/) - The easiest way to get started with PostgreSQL, MySQL, Redis & more
+- [TablePlus](https://tableplus.io/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 - [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful IDE from JetBrains for SQL on macOS, Windows and Linux.
 - [Sequel Pro](https://www.sequelpro.com/) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
 - [Cyberduck](https://cyberduck.io/) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
