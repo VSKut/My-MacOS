@@ -53,10 +53,13 @@
 - [WebStorm](https://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python IDE for Professional Developers
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - Lightning-smart PHP IDE
+- [GoLand](https://www.jetbrains.com/go/) - GoLand is a cross-platform IDE built specially for Go developers
 - [Sublime Text](https://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century
-- [Visual Studio IDE](https://www.visualstudio.com/) - Visual Studio dev tools & services make app development easy for any platform & language.
+- [MacVim](https://macvim-dev.github.io/macvim/) - Vim, the text editor, for macOS
+- [Visual Studio Code](https://www.visualstudio.com/) - Visual Studio dev tools & services make app development easy for any platform & language.
 - [Xcode](https://developer.apple.com/xcode/) - Xcode includes everything you need to create amazing apps for iPhone, iPad, Mac, Apple Watch, and Apple TV.
+- [BloomRPC](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [DBngin](https://dbngin.com/) - The easiest way to get started with PostgreSQL, MySQL, Redis & more
 - [TablePlus](https://tableplus.io/) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 - [DataGrip](https://www.jetbrains.com/datagrip/) - A powerful IDE from JetBrains for SQL on macOS, Windows and Linux.
@@ -103,6 +106,7 @@
 - [Network Utility X](https://doublerew.net/os-x/network-utility-x/) - After more than 100k downloads on iOS platforms, Network Utility comes also to OS X with Network Utility X, a complete set of network tools.
 - [coconut Battery](https://www.coconut-flavour.com/coconutbattery/) - With coconutBattery you are always aware of your current battery health. It shows you live information about the battery in your Mac and iOS device
 - [The Clock 4 macOS](https://www.seense.com/the_clock/) - The Clock has been crafted with care, and deliver everything you could expect from an advanced and beautiful World Clock app.
+- [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 
 
 ### Mobile
