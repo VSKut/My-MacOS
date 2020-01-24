@@ -90,7 +90,8 @@
 - [gfxCardStatus](https://gfx.io/) - gfxCardStatus is an unobtrusive menu bar app for OS X that allows MacBook Pro users to see which apps are affecting their battery life by using the more power-hungry graphics.
 - [SMARTReporter](https://www.corecode.io/smartreporter/) - SMARTReporter is an application that can warn you of some hard disk drive failures before they actually happen! It does so by periodically polling the S.M.A.R.T. status of your hard disk drives.
 - [Microsoft NTFS for Mac](https://www.paragon-software.com/home/ntfs-mac/) - Boost Your Mac with Paragon File System Link. Read/write Microsoft NTFS files on your Mac for free.
-- [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
+- [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder (doesn't work with Catalina).
+- [cd to...](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal (works with Catalina).
 - [Weather Indicator](https://itunes.apple.com/us/app/weather-indicator/id1181817945) - This is a simple and beautiful menu bar application that shows local weather conditions based on your location.
 - [WeatherBug](https://itunes.apple.com/us/app/weatherbug-weather-forecast/id281940292) - WeatherBug is easy to use and provides forecasts for your every need, from storm warnings to pollen levels. Our weather network delivers the fastest alerts and the best real-time forecasts (current, hourly and 10-day).
 - [Weather for Status Bar](https://itunes.apple.com/us/app/weather-for-status-bar/id1448031908) - "Weather for Status Bar" is a simple desktop app for MacOS. It displays the current weather situation on the status bar and more detail info on click on its icon in the popup.
