@@ -76,6 +76,7 @@
 - [Kitematic](https://kitematic.com/) - Run docker containers through a simple, yet powerful graphical user interface.
 - [Insomnia](https://insomnia.rest/) - Finally, a REST client you'll love
 - [Postman](https://www.getpostman.com/apps) - Postman is the complete toolchain for API developers, used by more than 3 million developers and 30,000 companies worldwide. Postman makes working with APIs faster and easier by supporting developers at every stage of their workflow, and is available for Mac OS X, Windows and Linux users.
+- [InfluxDB WorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
 
 ### System
 - [Wallcat](https://beta.wall.cat/) - Enjoy a new, beautiful wallpaper, every day.
@@ -130,6 +131,9 @@
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 - [WineSkin](http://wineskin.urgesoftware.com/tiki-index.php) - Wineskin Winery Wrapper Wine Xquartz X11 Mac OS X Macintosh free do-it-yourself porting microsoft windows programs run game games gaming.
 - [WineHQ](https://www.winehq.org/) - Open Source Software for running Windows applications on other operating systems.
+- [OTP Manager](https://apps.apple.com/us/app/otp-manager/id928941247?mt=12) - OTP Manager is a manager for (2FA) HMAC based Time Based One Time Passwords, as used by Google, Facebook, Dropbox, and many more.
+- [ObinsKit](http://en.obins.net/obinskit) - ObinsKit is already available for ANNE PRO 2. We are working hard to let it work with ANNE PRO.
+- [ProxyChecker](https://proxychecker.co/) - An easy to use open-source, multithreaded Proxy Checker. Allows you to quickly check HTTP and SOCKS proxies in a user friendly GUI, for Windows, Mac OS, Linux.
 
 ### Related lists
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
