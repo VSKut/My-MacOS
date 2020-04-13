@@ -24,6 +24,7 @@
 - [Dragand](http://dragand.watch/) - A quick and simple application to download subtitles of your favorite series.
 - [AirServer](http://www.airserver.com/) - AirServer® is the most advanced screen mirroring software receiver for Mac, PC and Xbox One. AirServer Universal allows you to receive AirPlay, Miracast and Google Cast streams, similar to an Apple TV or a Chromecast device, so you can stream content, cast or mirror your display from an iOS device, macOS, Windows, Android, Chromebook or any other AirPlay and Google Cast compatible device. AirServer is compatible with Windows 10, iOS 9, iOS 10, macOS Sierra and also runs on the Xbox One.
 - [Movian](https://movian.tv) - Movian is a media center primarily intended to be used directly on a TV.
+- [YaMusic](https://github.com/Scumfunk/yamusic) - Yandex Music electron app with Macbooks's Touchbar and global shortcuts support
 
 
 ## Messengers
