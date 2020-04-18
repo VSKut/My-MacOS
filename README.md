@@ -25,6 +25,7 @@
 - [AirServer](http://www.airserver.com/) - AirServer® is the most advanced screen mirroring software receiver for Mac, PC and Xbox One. AirServer Universal allows you to receive AirPlay, Miracast and Google Cast streams, similar to an Apple TV or a Chromecast device, so you can stream content, cast or mirror your display from an iOS device, macOS, Windows, Android, Chromebook or any other AirPlay and Google Cast compatible device. AirServer is compatible with Windows 10, iOS 9, iOS 10, macOS Sierra and also runs on the Xbox One.
 - [Movian](https://movian.tv) - Movian is a media center primarily intended to be used directly on a TV.
 - [YaMusic](https://github.com/Scumfunk/yamusic) - Yandex Music electron app with Macbooks's Touchbar and global shortcuts support
+- [OBS](https://obsproject.com/) - Open Broadcaster Software. Free and open source software for video recording and live streaming.
 
 
 ## Messengers
@@ -110,7 +111,7 @@
 - [coconut Battery](https://www.coconut-flavour.com/coconutbattery/) - With coconutBattery you are always aware of your current battery health. It shows you live information about the battery in your Mac and iOS device
 - [The Clock 4 macOS](https://www.seense.com/the_clock/) - The Clock has been crafted with care, and deliver everything you could expect from an advanced and beautiful World Clock app.
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
-
+- [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app
 
 ### Mobile
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
