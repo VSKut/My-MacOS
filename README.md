@@ -112,6 +112,7 @@
 - [The Clock 4 macOS](https://www.seense.com/the_clock/) - The Clock has been crafted with care, and deliver everything you could expect from an advanced and beautiful World Clock app.
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 - [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app
+- [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS menu bar app that allows control over the gpu on dual gpu macbooks
 
 ### Mobile
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
