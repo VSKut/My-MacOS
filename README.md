@@ -113,6 +113,7 @@
 - [Wireshark](https://www.wireshark.org/) - Wireshark is the world’s foremost and widely-used network protocol analyzer.
 - [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app
 - [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS menu bar app that allows control over the gpu on dual gpu macbooks
+- [dshb](https://github.com/beltex/dshb) - A macOS system monitor in Swift, inspired by top & htop.
 
 ### Mobile
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
