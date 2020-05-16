@@ -41,6 +41,7 @@
 - [Chrome Web Browser](https://www.google.com/chrome/) - Google Chrome is a freeware web browser developed by Google
 - [Adblock for YouTube](https://chrome.google.com/webstore/detail/adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk) - Removing ads from video
 - [AliTools](https://alitools.io) - AliTools monitors price changes for products on AliExpress, Gearbest, Banggood, JD. It indicates seller trust levels, searches products, and provides real reviews of the products you are interested in.
+- [Otsledit](https://otsledit.net/en) - Otsledit allows you to track any content on a webpage. You can easily track prices in online stores, as well as any other useful information on the web
 - [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn) - Missing cookie manager for Google Chrome. Edit and create cookies right in the Developer Tools.
 - [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Grammarly will make sure your messages, documents, and social media posts are clear, mistake-free, and impactful.
 - [LetyShops — cashback service](https://letyshops.com/) - Cashback service LetyShops offers to save up to 30% on purchases in online stores in Russia and the world.
