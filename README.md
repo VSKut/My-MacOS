@@ -80,6 +80,7 @@
 - [Insomnia](https://insomnia.rest/) - Finally, a REST client you'll love
 - [Postman](https://www.getpostman.com/apps) - Postman is the complete toolchain for API developers, used by more than 3 million developers and 30,000 companies worldwide. Postman makes working with APIs faster and easier by supporting developers at every stage of their workflow, and is available for Mac OS X, Windows and Linux users.
 - [InfluxDB WorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
+- [Termius](https://termius.com/) - The #1 cross-platform terminal with built-in ssh client which works as your own portable server management system in any situation.
 
 ### System
 - [Wallcat](https://beta.wall.cat/) - Enjoy a new, beautiful wallpaper, every day.
@@ -115,6 +116,9 @@
 - [Touch Bar Simulator](https://sindresorhus.com/touch-bar-simulator/) - The macOS Touch Bar as a standalone app
 - [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS menu bar app that allows control over the gpu on dual gpu macbooks
 - [dshb](https://github.com/beltex/dshb) - A macOS system monitor in Swift, inspired by top & htop.
+- [balenaEtcher](https://www.balena.io/etcher/) - A cross-platform tool to flash OS images onto SD cards and USB drives safely and easily. Free and open source for makers around the world.
+- [dd Utility](https://github.com/thefanclub/dd-utility) - Write and Backup Operating System IMG or ISO files on Memory Card or Disk
+- [GrandPerspective](http://grandperspectiv.sourceforge.net/) - is a small utility application for macOS that graphically shows the disk usage within a file system. It can help you to manage your disk, as you can easily spot which files and folders take up the most space. It uses a so called tree map for visualisation. Each file is shown as a rectangle with an area proportional to the file's size. Files in the same folder appear together, but their placement is otherwise arbitrary.
 
 ### Mobile
 - [iMazing](https://imazing.com/) - iMazing lets you transfer music, files, messages, apps and more from any iPhone, iPad, or iPod to a computer, Mac or PC. Manage and backup your iOS device simply without iTunes. (was DiskAid)
@@ -132,6 +136,7 @@
 - [Transmission](https://transmissionbt.com/) - Transmission is a cross-platform BitTorrent client
 - [KeyKey Typing Tutor](http://keykey.ninja/) - KeyKey will teach you touch typying with fewer error in QWERTY or DVORAK layouts. 15 minutes a day and you will become a keyboard ninja!
 - [TeamViewer](https://www.teamviewer.com/en/) - Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate online ➤ Free for personal use!
+- [AnyDesk](https://anydesk.com/ru) - Discover AnyDesk, the secure & intuitive remote desktop software, and take advantage of the application's innovative features!
 - [Parallels Desktop](https://www.parallels.com/products/desktop/) - #1 choice of Mac users. Run Windows applications like Microsoft Office, Internet Explorer, Visual Studio, QuickBooks and more without rebooting.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 - [WineSkin](http://wineskin.urgesoftware.com/tiki-index.php) - Wineskin Winery Wrapper Wine Xquartz X11 Mac OS X Macintosh free do-it-yourself porting microsoft windows programs run game games gaming.
@@ -139,6 +144,7 @@
 - [OTP Manager](https://apps.apple.com/us/app/otp-manager/id928941247?mt=12) - OTP Manager is a manager for (2FA) HMAC based Time Based One Time Passwords, as used by Google, Facebook, Dropbox, and many more.
 - [ObinsKit](http://en.obins.net/obinskit) - ObinsKit is already available for ANNE PRO 2. We are working hard to let it work with ANNE PRO.
 - [ProxyChecker](https://proxychecker.co/) - An easy to use open-source, multithreaded Proxy Checker. Allows you to quickly check HTTP and SOCKS proxies in a user friendly GUI, for Windows, Mac OS, Linux.
+- [Easy Screen OCR](https://easyscreenocr.com/) - is a solid program for grabbing the text from any image on your PC.
 
 ### Related lists
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS)
