@@ -81,6 +81,7 @@
 - [Postman](https://www.getpostman.com/apps) - Postman is the complete toolchain for API developers, used by more than 3 million developers and 30,000 companies worldwide. Postman makes working with APIs faster and easier by supporting developers at every stage of their workflow, and is available for Mac OS X, Windows and Linux users.
 - [InfluxDB WorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
 - [Termius](https://termius.com/) - The #1 cross-platform terminal with built-in ssh client which works as your own portable server management system in any situation.
+- [Boop](https://boop.okat.best/) - It's a magical place to paste some plain text and run some basic text operations on it. Goodbye, unreadable XML! So long, HTML entities! Au revoir, undecipherable time-stamps!
 
 ### System
 - [Wallcat](https://beta.wall.cat/) - Enjoy a new, beautiful wallpaper, every day.
